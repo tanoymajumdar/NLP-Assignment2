@@ -1,0 +1,2 @@
+Upon executing the code for the model chosen on the same training dataset.
+Accuracy: 70.58%

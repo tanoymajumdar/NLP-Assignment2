@@ -1,0 +1,11 @@
+
+Entities:{'GPE', 'QUANTITY', 'CARDINAL', 'LANGUAGE', 'WORK_OF_ART', 'PRODUCT', 'LAW', 'MONEY', 'FAC', 'NORP', 'ORG', 'EVENT', 'TIME', 'DATE', 'ORDINAL', 'LOC', 'PERCENT', 'PERSON'}
+Preposition count:18765
+Most common prepositions:[(with, 1), (of, 1), (that, 1)]
+Sentence count:5493
+Average verb count:2.8126706717640633
+entity label:18
+
+Common Errors:
+1. I found that in all the cases there were some errors in recognising the correct labels/tags/token while parsing.
+2. I also found parsing skips over a few unrecognised words.

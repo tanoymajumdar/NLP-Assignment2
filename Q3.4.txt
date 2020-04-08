@@ -1,0 +1,26 @@
+a.
+1. Using 'sigmoid' as the activation function for the first dense layer
+   Using 'relu' as the activation function for the second dense layer
+   Using 'sigmoid' as the activation function for the output layer
+   Using 50 nodes for the first dense layer
+   Using 10 nodes for the second dense layer
+   Using 1 nodes for the output layer
+Accuracy is 73.32%
+
+2. Using 'sigmoid' as the activation function for the first dense layer
+   Using 'relu' as the activation function for the second dense layer
+   Using 'sigmoid' as the activation function for the output layer
+   Using 100 nodes for the first dense layer
+   Using 10 nodes for the second dense layer
+   Using 1 nodes for the output layer
+Accuracy is 73.13%
+
+3. Using 'tanh' as the activation function for the first dense layer
+   Using 'relu' as the activation function for the second dense layer
+   Using 'sigmoid' as the activation function for the output layer
+   Using 100 nodes for the first dense layer
+   Using 10 nodes for the second dense layer
+   Using 1 nodes for the output layer
+Accuracy is 73.64%
+
+Finally choosing the 3rd parameters as it gives the best accuracy.

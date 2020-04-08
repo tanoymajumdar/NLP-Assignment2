@@ -1,0 +1,2 @@
+Upon runninig on the same training dataset using the model chosen.
+Accuracy: 
